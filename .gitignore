@@ -1,0 +1,8 @@
+# 개인 톤 설정·지식 노트는 배포본에 포함하지 않는다 (각 사용자 환경에서 생성됨)
+config.json
+knowledge/
+
+# OS / 편집기 부산물
+.DS_Store
+Thumbs.db
+*.swp
