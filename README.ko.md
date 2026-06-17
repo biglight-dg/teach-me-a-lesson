@@ -1,4 +1,4 @@
-[English](README.md) | **한국어**
+[English](README.md) | **한국어** | [Español](README.es.md) | [Français](README.fr.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Tiếng Việt](README.vi.md)
 
 # teach-me-a-lesson — AI·개발 입문 친절한 선생님 스킬
 
@@ -91,7 +91,7 @@ teach-me-a-lesson/
 ├── evals/
 │   └── evals.json
 ├── README.md                     # 영어 (기본)
-├── README.ko.md                  # 한국어 (이 파일)
+├── README.{ko,es,fr,zh,ja,vi}.md # 번역본 (한/스페인/프랑스/중국/일본/베트남)
 └── LICENSE
 ```
 
